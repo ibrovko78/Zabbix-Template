@@ -1,2 +1,2 @@
 # Zabbix-Template
-файлы шаблонов для Zabbix
+файлы шаблонов ZABBIX для ресиверов PBI DMM
